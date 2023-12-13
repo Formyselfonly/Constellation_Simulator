@@ -2,7 +2,7 @@
 
 ## 游戏展示
 
-<video src="D:\Documents\WXWork\1688855133475266\WeDrive\OgCloud\产品运营部\OgCloud云产品\OgAI\UgGame AI Demo\virtual_girlfriend_demo.mp4"></video>
+[![image-20231213161730943](D:\Pictures\Saved Pictures\typora\image-20231213161730943.png)](virtual_girlfriend_demo.mp4)
 
 ## 如何游玩?
 
