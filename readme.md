@@ -2,7 +2,7 @@
 
 ## 游戏展示
 
-[![image-20231213161730943](D:\Pictures\Saved Pictures\typora\image-20231213161730943.png)](virtual_girlfriend_demo.mp4)
+![virtual_girlfriend_demo](D:\Pictures\Saved Pictures\typora\virtual_girlfriend_demo-1702455931678.gif)
 
 ## 如何游玩?
 
